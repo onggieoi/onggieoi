@@ -32,3 +32,5 @@ i love to code and ecosystem of programming not some special of programming lang
   <a href="https://www.linkedin.com/in/quangduccao/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+## **Gmail**: onggieoi@gmail.com

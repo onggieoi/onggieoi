@@ -26,9 +26,11 @@ Runtime:
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
-Cloud: 
+Cloud:
+<p>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
 
 OS:
   <p>
@@ -53,10 +55,8 @@ i love to code and ecosystem of programming.
   <a href="https://www.linkedin.com/in/quangduccao/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+## **Gmail**: onggieoi@gmail.com
 
 [![onggieoi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=onggieoi&theme=blue-green)](https://github.com/onggieoi)
 
 [![onggieoi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onggieoi&theme=blue-green)](https://github.com/onggieoi)
-
-
-## **Gmail**: onggieoi@gmail.com
